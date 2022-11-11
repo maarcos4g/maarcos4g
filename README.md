@@ -5,9 +5,9 @@ I'm always looking to learn.
 I love technology and am always looking to solve problems through programming. 
 
 ### My Current Tools
-💻 Front-end Web with ReactJS
-📱 Front-end Mobile with React Native
-🛠️ Typescript
+💻 Front-end Web with ReactJS   
+📱 Front-end Mobile with React Native   
+🛠️ Typescript   
 and more...
 
 ### Find me elsewhere
